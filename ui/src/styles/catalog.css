@@ -1,0 +1,31 @@
+.container{
+  display: flex;
+  height: 100%
+}
+
+.left-class{
+  height: 100%;
+  padding: 24px;
+  width: 300px
+}
+
+.left-title-class{
+  font-size: 16px;
+  font-weight: bold;
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+  border-bottom: 1px solid #f0f0f0
+}
+
+.right-class{
+  clear: both;
+  height: 100%;
+  padding: 24px;
+  width: calc(100% - 324px);
+}
+
+.middle-class{
+  width: 24px;
+  background: #f5f5f5
+}
+
